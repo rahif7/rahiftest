@@ -1,0 +1,7 @@
+D:\gitlab1\bin\Release\net9.0\publish\gitlab1.exe
+D:\gitlab1\bin\Release\net9.0\publish\appsettings.Development.json
+D:\gitlab1\bin\Release\net9.0\publish\appsettings.json
+D:\gitlab1\bin\Release\net9.0\publish\gitlab1.dll
+D:\gitlab1\bin\Release\net9.0\publish\gitlab1.deps.json
+D:\gitlab1\bin\Release\net9.0\publish\gitlab1.runtimeconfig.json
+D:\gitlab1\bin\Release\net9.0\publish\gitlab1.pdb
